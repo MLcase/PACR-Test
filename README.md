@@ -8,3 +8,5 @@ Let's test pacr labels twice
 Let's test pacr ignore label
 
 Let's test not ignore
+
+Let's test commit highlight
